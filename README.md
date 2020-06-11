@@ -21,7 +21,10 @@ Also here you'll will see that I used:
 
 * Phaser.JS library;
 
-My improving plan for this project is to stop the action on the screen when the game is over or the player won.
+My improving plan for this project is:
+
+1. To stop the action on the screen when the game is over or the player won.
+2. To add the timer for the game.
 
 [This is link on future website](https://github.com "It's funny!")
 
